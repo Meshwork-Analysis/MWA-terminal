@@ -16,3 +16,8 @@ Licence: https://github.com/Meshwork-Analysis/MWA-terminal?tab=License-1-ov-file
 - YFinance API
 - Pandas DataVisualisation API/Module
 - Python
+
+## Download:
+
+Github: https://github.com/Meshwork-Analysis/MWA-terminal/archive/refs/heads/main.zip
+[![Download Meshwork Analysis terminal](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/meshwork-analysis-terminal/files/latest/download)
