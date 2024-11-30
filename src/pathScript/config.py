@@ -27,7 +27,7 @@ def Remove(dotdot):
     temp = temp.replace(dotdot,'')
     
 
-    print(temp)
+    # print(temp)
 
 
     z = open("config.txt", "w")

@@ -1,4 +1,4 @@
-from config import AddSlug , Remove
+from pathScript.config import AddSlug , Remove
 
 
 
